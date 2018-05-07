@@ -1,6 +1,6 @@
 package commons;
 
-import monPack.* ;
+import monPack.MyStringUtils ;
 
 
 public class main {
@@ -11,7 +11,7 @@ public class main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated constructor stub
-		System.out.println(monPack.MyStringUtils.isNullOrEmpty("Test"));
+		System.out.println(MyStringUtils.isNullOrEmpty("Test"));
 		// le COMMENTAIRE		
 	}
 
