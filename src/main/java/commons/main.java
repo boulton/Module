@@ -1,8 +1,9 @@
 package commons;
 
-import monPack.*;
+import monPack.* ;
 
-public class MaClass {
+
+public class main {
 	
 	int mavar = 0;
 	int var3 = 0;
